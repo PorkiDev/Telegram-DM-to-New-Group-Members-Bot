@@ -23,5 +23,9 @@ This repository contains a bot that automatically sends messages to new members 
 4. Tracks users to whom messages have already been sent, ensuring no duplicate messages are sent.
 5. Checks if the username is valid and has not been messaged yet, ensuring efficient and accurate messaging.
 
+## **Contact me**
+Selling this for only 0.2 BNB
+Telegram: @PorkiDev
+
 
 Please note that the bot should be used responsibly and in accordance with Telegram's terms of service. The creators are not responsible for any misuse of this tool.
