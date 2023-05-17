@@ -1,5 +1,9 @@
 ![alt text](https://github.com/PorkiDev/Telegram-DM-to-New-Group-Members-Bot/blob/main/frm.png?raw=true)
 
+# **Video Tutorial**
+[Check out the video tutorial here](https://youtu.be/jrRcRz-RFcs)
+
+
 ![](https://komarev.com/ghpvc/?username=PorkiDev)
 # **Telegram DM to New Group Members Bot**
 
